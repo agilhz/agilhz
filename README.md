@@ -6,10 +6,11 @@
 
 ## 💻 Experiences
 - GIT (VCS)
-- Basic HTML/CSS
-- Basic JavaScript
-- Basic Java
-- Basic C/C++
+- HTML/CSS
+- JavaScript
+- Java
+- C++
+- C
 
 ## 🌱 I’m currently learning
 - HTML/CSS
