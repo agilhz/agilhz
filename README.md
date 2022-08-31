@@ -6,14 +6,14 @@
 
 ## 💻 Experiences
 - GIT (VCS)
-- HTML/CSS
+- HTML
+- CSS
 - JavaScript
 - Java
-- C++
-- C
 
 ## 🌱 I’m currently learning
-- HTML/CSS
+- HTML
+- CSS
 - JavaScript
 
 ## 📫 How to reach me
