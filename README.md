@@ -1,9 +1,5 @@
 👋 Hi, my name is Agil Haubi Zikri, I'm Bachelor Student at University of Muhammadiyah Jakarta majoring in Informatic Engineers.
 
-[![agilhz's GitHub stats](https://github-readme-stats.vercel.app/api?username=agilhz)](https://github.com/agilhz/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agilhz&layout=compact)](https://github.com/agilhz/github-readme-stats)
-
 ## 💻 Experiences
 - GIT (VCS)
 - HTML
