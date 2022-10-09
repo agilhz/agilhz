@@ -5,7 +5,6 @@
 - HTML
 - CSS
 - JavaScript
-- Java
 
 ## 🌱 I’m currently learning
 - HTML
