@@ -1,4 +1,4 @@
-👋 Hi, my name is Agil Haubi Zikri, I'm Bachelor Student at University of Muhammadiyah Jakarta majoring in Informatic Engineers.
+Hi, Agil here. You can call me Agil. I want to share something with you: when I lack motivation but feel like doing something, like coding, I count down from 5 to 0 and start the task instantly. For finishing, I like to quote to myself "Learn something with Observe, Imitate, and Modify."
 
 ## 💻 Experiences
 - GIT (VCS)
