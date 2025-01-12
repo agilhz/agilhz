@@ -4,4 +4,5 @@ When I lack motivation but still feel like doing something, like coding, I use a
 One of my favorite quotes is: <em>"Learn something with Observe, Imitate, and Modify".</em>
 Currently, I'm <em>focusing on frontend web development.</em>
 <br>
+<br>
 Commit with me, <strong>10 hours a day</strong>
