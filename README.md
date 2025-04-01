@@ -5,4 +5,4 @@ One of my favorite quotes is: <em>"Learn something with Observe, Imitate, and Mo
 Currently, I'm <em>focusing on frontend web development.</em>
 <br>
 <br>
-Commit with me, <strong>10 hours a day</strong>
+Be...
