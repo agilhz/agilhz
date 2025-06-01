@@ -6,6 +6,11 @@ I enjoy creating functional and responsive applications using stacks such as
 **Laravel**, **Tailwind CSS**, and **MySQL**.
 
 
+## Codewars stats showcase
+
+![Codewars Stats](https://github.r2v.ch/codewars?username=agilhz&name=true&top_languages=true&stroke=%23000000&theme=dark&hide_clan=true&animation=false)
+
+
 ## Here's a list of my tech stack and skills:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
@@ -24,7 +29,6 @@ I enjoy creating functional and responsive applications using stacks such as
 
 [![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-48.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
 [![X (Twitter)](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-48.png)](https://x.com/agil_hz)
-[![Codewars](https://icons8.com/icon/gDJDJJ1MCGmG/codewars)](https://www.codewars.com/users/agilhz)
 
 <!--
 **agilhz/agilhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
