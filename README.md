@@ -1,14 +1,13 @@
-
-![Agil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agilhz&show_icons=true&hide=contribs,prs,issues&theme=radical)
-
-[![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-48.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
-[![X (Twitter)](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-48.png)](https://x.com/agil_hz)
-
 Hello there 👋,
 
 I am a **tech enthusiast** with a strong dedication to building digital solutions.  
 I enjoy creating functional and responsive applications using stacks such as  
 **Laravel**, **Tailwind CSS**, and **MySQL**.
+
+Want to collaborate with me? Contact me:
+
+[![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-48.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
+[![X (Twitter)](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-48.png)](https://x.com/agil_hz)
 
 ---
 
