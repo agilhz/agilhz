@@ -8,15 +8,13 @@ I enjoy creating functional and responsive applications using stacks such as
 
 ## Codewars stats showcase
 
-![Codewars Stats](https://github.r2v.ch/codewars?username=agilhz&name=true&top_languages=true&stroke=%23000000&theme=dark&hide_clan=true&animation=false)
+![Codewars](https://github.r2v.ch/codewars?user=agilhz&theme=gradient&top_languages=true&stroke=%23BB432C)
 
 
 ## Here's a list of my tech stack and skills:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
-
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)
-
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
 
