@@ -5,7 +5,6 @@ I am a **tech enthusiast** with a strong dedication to building digital solution
 I enjoy creating functional and responsive applications using stacks such as  
 **Laravel**, **Tailwind CSS**, and **MySQL**.
 
----
 
 ## Here's a list of my tech stack and skills:
 
@@ -16,13 +15,11 @@ I enjoy creating functional and responsive applications using stacks such as
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
----
 
 ## Check out some of the things I'm building!
 
 - [Portofolio Web CMS For Myself Only](https://github.com/agilhz/portfolio-web-agil) (under development)
 
----
 
 ## Want to collaborate with me? Contact me:
 
