@@ -1,8 +1,8 @@
 
 ![Agil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=agilhz&show_icons=true&hide=contribs,prs,issues&theme=radical)
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
-[![X (Twitter)](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://x.com/agil_hz)
+[![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-512.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
+[![X (Twitter)](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-512.png)](https://x.com/agil_hz)
 
 Hello there 👋,
 
