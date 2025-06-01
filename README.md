@@ -24,7 +24,7 @@ I enjoy creating functional and responsive applications using stacks such as
 
 [![LinkedIn](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-48.png)](https://www.linkedin.com/in/agil-haubi-zikri-a4b202192/)
 [![X (Twitter)](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/twitter-48.png)](https://x.com/agil_hz)
-
+[![Codewars](https://icons8.com/icon/gDJDJJ1MCGmG/codewars)](https://www.codewars.com/users/agilhz)
 
 <!--
 **agilhz/agilhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
