@@ -7,6 +7,16 @@ I enjoy creating functional and responsive applications using stacks such as
 
 <br>
 
+## GitHub Stats Showcase
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agilhz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agilhz&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
+
+
+<br>
+
 ## Here's a list of my tech stack and skills:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
