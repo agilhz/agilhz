@@ -5,11 +5,7 @@ I am a **tech enthusiast** and **web developer** with a strong dedication to bui
 I enjoy creating functional and responsive applications using stacks such as  
 **Laravel**, **Tailwind CSS**, and **MySQL**.
 
-
-## Codewars stats showcase
-
-![Codewars](https://github.r2v.ch/codewars?user=agilhz&theme=gradient&top_languages=true&stroke=%23BB432C)
-
+<br>
 
 ## Here's a list of my tech stack and skills:
 
@@ -17,11 +13,13 @@ I enjoy creating functional and responsive applications using stacks such as
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
+<br>
 
 ## Check out some of the things I'm building!
 
 - [Portofolio Web CMS For Myself Only](https://github.com/agilhz/portfolio-web-agil) (under development)
 
+<br>
 
 ## Want to collaborate with me? Contact me:
 
