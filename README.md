@@ -1,5 +1,5 @@
 
-# Hello there 👋,
+# Hello there 👋
 
 I am a **tech enthusiast** and **web developer** with a strong dedication to building digital solutions.  
 I enjoy creating functional and responsive applications using stacks such as  
