@@ -17,7 +17,7 @@ I enjoy creating functional and responsive applications using stacks such as
 
 ## Check out some of the things I'm building!
 
-- [Portofolio Web CMS For Myself Only](https://github.com/agilhz/portfolio-web-agil) (under development)
+- [Portofolio Web CMS For Myself Only](under development)
 
 <!--
 **agilhz/agilhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
