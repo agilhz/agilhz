@@ -17,7 +17,7 @@ I am a **tech enthusiast** and **web developer** with a strong dedication to bui
 
 ## Check out some of the things I'm building!
 
-- Portofolio Web CMS For Myself Only (under development)
+- Build my Portfolio Website [Under Development]
 
 <!--
 **agilhz/agilhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
