@@ -9,7 +9,7 @@ I am a **tech enthusiast** and **web developer** with a strong dedication to bui
 ## Here's a list of my tech stack and skills:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-Green?style=for-the-badge)
+![VueJS](https://img.shields.io/badge/-VueJS-Green?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
