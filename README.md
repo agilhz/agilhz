@@ -1,15 +1,15 @@
 
 # Hello there 👋
 
-I am a **tech enthusiast** and **web developer** with a strong dedication to building digital solutions.  
-I enjoy creating functional and responsive applications using stacks such as  
-**Laravel**, **Tailwind CSS**, and **MySQL**.
+I am a **tech enthusiast** and **web developer** with a strong dedication to building digital solutions.
+
 
 <br>
 
 ## Here's a list of my tech stack and skills:
 
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)
+![Express JS](https://img.shields.io/badge/-Express-blue?style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 
