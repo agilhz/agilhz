@@ -9,18 +9,28 @@ I am a **tech enthusiast** and **web developer** with a strong dedication to bui
 ## Here's a list of my tech stack and skills:
 
 ### Frontend
-![VueJS](https://img.shields.io/badge/-VueJS-green?style=for-the-badge)  
-![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)  
+
+<p>
+  <img src="https://img.shields.io/badge/-VueJS-green?style=for-the-badge" alt="VueJS">
+  <img src="https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge" alt="Tailwind">
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge" alt="Bootstrap">
+</p>
 
 ---
 
 ### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)  
+
+<p>
+  <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge" alt="Laravel">
+</p>
 
 ---
 
 ### Database
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge)  
+
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-white?style=for-the-badge" alt="MySQL">
+</p>
 
 <br>
 
