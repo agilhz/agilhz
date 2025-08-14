@@ -9,23 +9,18 @@ I am a **tech enthusiast** and **web developer** with a strong dedication to bui
 ## Here's a list of my tech stack and skills:
 
 ### Frontend
-- ![VueJS](https://img.shields.io/badge/-VueJS-green?style=for-the-badge)  
-  Framework JavaScript progresif untuk membangun UI interaktif dan Single Page Application.
-
-- ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)  
-  Framework CSS utility-first untuk desain responsif dan kustomisasi cepat.
+![VueJS](https://img.shields.io/badge/-VueJS-green?style=for-the-badge)  
+![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=for-the-badge)  
 
 ---
 
 ### Backend
-- ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)  
-  Framework PHP dengan arsitektur MVC, routing, Eloquent ORM, dan sistem autentikasi bawaan.
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge)  
 
 ---
 
 ### Database
-- ![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge)  
-  Sistem manajemen basis data relasional untuk penyimpanan dan pengolahan data aplikasi.
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=for-the-badge)  
 
 <br>
 
